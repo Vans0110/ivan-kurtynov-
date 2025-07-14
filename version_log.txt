@@ -1,0 +1,2 @@
+v1.0.1 — ✅ Added update window  
+v1.0.0 — 🚀 Initial release: text replacement, renaming, number patch
