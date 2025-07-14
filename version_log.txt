@@ -1,3 +1,4 @@
+v1.0.5 — Test update 
 v1.0.4 — 1. Text Replace — find and replace text inside .docx files. Works on selected files.
 	       2. Rename Files and Numbers — rename files incrementally with a base name and numbering.
 	       3. Replace Number in docx — find a template with a number inside files and replace numbers sequentially. Does not rename files, only updates numbers inside.
